@@ -141,10 +141,10 @@ addButton.addEventListener("click", function () {
 
 Create a Simple Counter App that:
 
-Displays a counter value starting at 0.
-Has a button to increase the counter by 1.
-Has another button to decrease the counter by 1.
-Updates the counter display every time a button is pressed.
+- Displays a counter value starting at 0.
+- Has a button to increase the counter by 1.
+- Has another button to decrease the counter by 1.
+- Updates the counter display every time a button is pressed.
 
 ---
 
