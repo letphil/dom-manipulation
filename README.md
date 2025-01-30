@@ -45,8 +45,8 @@
 - `document.getElementById('id')`
 - `document.getElementsByClassName('class')`
 - `document.getElementsByTagName('tag')`
-- `document.querySelector('selector')`
-- `document.querySelectorAll('selector')`
+- `document.querySelector('ul li')` retrieves only first find
+- `document.querySelectorAll('ul li')` retrieves all finds
 
 ### Changing Content:
 
